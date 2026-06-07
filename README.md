@@ -1,0 +1,5 @@
+Nella mia lunga vita lavorativa ho usato molto il computer, fin da prima che ci fosse il personal computer. Le mie prime esperienze, quando facevo ricerche di mercato, le ho compiute su grandi elaboratori, a volte assistito da operatori senza il cui aiuto nessun comune mortale sarebbe stato in grado di infilare le schede perforate nei punti giusti; altre volte, più da protagonista, da workstation in time sharing.
+
+Da allora la tecnologia e l’informatica hanno fatto passi da gigante che ho sempre seguito con interesse, anche quando più impegnativi incarichi mi hanno allontanato dall’uso del computer come principale strumento di lavoro.
+
+Così il computer è per me gradualmente diventato un appassionante hobby e questo blog vuole essere un modo di condividere il mio hobby con altri appassionati o di diffonderlo in chi ancora non ce l’ha, anche con l’ambizione di educare al miglior utilizzo di questo formidabile strumento, ovviamente privilegiando l’utilizzo di software libero, che non è giusto rimanga il software preferito solo dagli hobbisti.
